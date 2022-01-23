@@ -1,4 +1,4 @@
-## Hi there, i'm Mahesh Manjunath 👋
+## <p align="center">Hi there, i'm Mahesh Manjunath 👋</p>
 
 ## Bio:
 
